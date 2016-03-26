@@ -1,0 +1,5 @@
+--require test/common.js
+--globals assert
+--reporter spec
+--timeout 5s
+--recursive
